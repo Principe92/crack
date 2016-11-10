@@ -10,7 +10,7 @@ In this lab, you will:
 
 #Usage
 
-crack <threads> <keysize> <target>
+"crack <threads> <keysize> <target>"
 
 #Description
 
